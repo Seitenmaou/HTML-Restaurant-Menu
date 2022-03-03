@@ -52,6 +52,15 @@ nav a:hover {
     color: darkred;
 }
 
+.menuSelect{
+    background-color: white;
+    border: 5px solid green;
+    border-radius: 5px;
+    color: darkred;
+    padding: 5px;
+    margin: 5px;
+}
+
 #banner {
     width: 100%;
     height: auto;
